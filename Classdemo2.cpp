@@ -22,7 +22,6 @@ int main()
         pobj.Display();
         cout<<pobj.No1<<"\n";
         cout<<pobj.No2<<"\n";
-//size of object of class = summation of sizes of  its nonstatic characteristics 
+    
     return 0;
-} // // class declaration does not have emory alloacation
-// the real life example of the oop is hdfc and hotel thali example
+} 
