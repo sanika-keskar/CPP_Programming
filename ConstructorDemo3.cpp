@@ -43,4 +43,3 @@ int main()
 } 
 
 
-// jevdhe  object create astat tevde constructor
