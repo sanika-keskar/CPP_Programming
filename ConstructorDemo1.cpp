@@ -20,8 +20,7 @@ class PPA
 int main()
 {
         PPA pobj1;
-        PPA pobj2;  // jevdhe  object tevde constructor
-
+        PPA pobj2;  
        
 
     return 0;
