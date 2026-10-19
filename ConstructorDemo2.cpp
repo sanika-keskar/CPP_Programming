@@ -26,8 +26,7 @@ class PPA
 int main()
 {
         PPA pobj1;
-        PPA pobj2(11,21);  // jevdhe  object create astat tevde constructor
-
+        PPA pobj2(11,21);  
        
 
     return 0;
