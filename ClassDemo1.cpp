@@ -12,9 +12,6 @@ class PPA
         {
             cout<<"Inside Display\n";
         }
-
-
-
 };
 
 
