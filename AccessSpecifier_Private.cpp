@@ -11,8 +11,7 @@ class Demo
     private:
             float f;
 
-};                                              // Characteristic means data in c++ and behaviour means functions/methods
-
+};                                              
 int main()
 {
     class Demo dobj;
